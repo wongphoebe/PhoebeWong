@@ -1,0 +1,24 @@
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+}
+
+h1 {
+ display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p,ul {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+div.center {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
